@@ -1,0 +1,20 @@
+{
+    "name": "marijnz.NativeQuadtree.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f6b973bdd59a34d3d806d4c1f33400cb",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:e0cd26848372d4e5c891c569017e11f1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

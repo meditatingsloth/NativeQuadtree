@@ -1,0 +1,25 @@
+{
+	"name": "com.marijnz.native-quadtree",
+	"version": "1.0.0",
+	"displayName": "Native Quadtree",
+	"description": "A Quadtree Native Collection for Unity DOTS.",
+	"unity": "2022.3",
+	"unityRelease": "9f1",
+	"documentationUrl": "https://github.com/marijnz/NativeQuadtree",
+	"dependencies": {
+		"com.unity.entities": "1.0.16",
+		"com.unity.mathematics": "1.2.6",
+		"com.unity.collections": "2.1.4",
+		"com.unity.burst": "1.8.8"
+	},
+	"keywords": [
+		"quadtree",
+		"dots",
+		"ecs"
+	],
+	"author": {
+		"name": "Marijn Zwemmer",
+		"email": "marijn@marijnzwemmer.com",
+		"url": "https://github.com/marijnz"
+	}
+}
