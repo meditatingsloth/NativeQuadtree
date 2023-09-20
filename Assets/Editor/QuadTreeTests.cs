@@ -1,11 +1,9 @@
 ﻿using System.Diagnostics;
 using NUnit.Framework;
 using NativeQuadTree;
-using Unity.Burst;
 using Unity.Collections;
 using Unity.Jobs;
 using Unity.Mathematics;
-using UnityEngine;
 using Debug = UnityEngine.Debug;
 using Random = UnityEngine.Random;
 
